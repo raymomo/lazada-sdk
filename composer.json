@@ -1,0 +1,31 @@
+{
+    "name": "raymomo/lazada",
+    "description": "A Lazada PHP SDK for Laravel",
+    "keywords": [
+        "lazada sdk",
+        "laravel"
+    ],
+    "homepage": "https://github.com/raymomo/lazada",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raymomo",
+            "email": "raymomo100@gmail.com",
+            "homepage": "https://www.sunrayexpress.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+<<<<<<< HEAD
+        "php": "^7.3|^8.2",
+=======
+        "php": "^7.3|^8.0",
+>>>>>>> 6dfa414 (Initial commit)
+        "illuminate/support": "^7.0|^8.0|^9.0|^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Raymomo\\Lazada\\": "src"
+        }
+    }
+}
